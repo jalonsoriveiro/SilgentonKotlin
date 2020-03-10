@@ -1,0 +1,6 @@
+fun main(){
+
+    Tiempo.imprimir()
+
+
+}
